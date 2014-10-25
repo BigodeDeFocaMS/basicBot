@@ -4,19 +4,19 @@
     "datarestored": "Dados armazenados anteriormente recuperados com êxito.",
     "greyuser": "Apenas Seguranças ou superiores podem usar o chatbot.",
     "bouncer": "O chatbot não pode mover pessoas na fila de espera quando usado por um bouncer.",
-    "online": "/me %%BOTNAME%% v%%VERSION%% online!",
+    "online": "/me %%BOTNAME%% v%%VERSION%% TA LIGADO PORRA, UHUUUL!",
 
 
-    "welcome": "Bem vindo(a), %%NAME%%",
+    "welcome": "Bem vindo seu traveco de tetas, %%NAME%%",
     "welcomeback": "Bem vindo(a) de volta, %%NAME%%",
     "songknown": "/me :repeat: Essa música foi tocada %%PLAYS%% vez(es) nos últimos %%TIMETOTAL%%. Última vez: %%LASTTIME%% atrás. :repeat:",
-    "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você precisa de permissão para tocar músicas longas.",
+    "timelimit": "@%%NAME%%, Musica maior que %%MAXLENGTH%% minutos. Vai ser pulada",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
     "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
 
 
-    "isopen": "/me A roleta foi iniciada! Use !join para participar!",
-    "winnerpicked": "/me Um vencedor foi escolhido! @%%NAME%% ganhou a posição %%POSITION%%.",
+    "isopen": "/me RODA A RODA CARAIOOO! Use !join para pra ganhar um pepino azul!",
+    "winnerpicked": "/me AEHOOO, o @%%NAME%% ganhou a posição %%POSITION%%. seu sortudo viadinho",
 
 
     "alreadyadding": "/me Usuário já está sendo adicionado! Posição desejada alterada para %%POSITION%%.",
@@ -24,21 +24,21 @@
 
 
     "usernotfound": "/me Usuário não encontrado.",
-    "notdisconnected": "/me @%%NAME%% não tem se desconectado durante meu tempo aqui.",
+    "notdisconnected": "/me @%%NAME%% Você não caiu, seu safadjenho :3",
     "noposition": "/me Última posição não reconhecida. A fila de espera precisa ser atualizada pelo menos uma vez para registrar posições.",
     "toolongago": "/me @%%NAME%%'s desconectou-se a muito tempo atrás: %%TIME%%.",
-    "valid": "/me @%%NAME%% desconectou-se %%TIME%% atrás e deve ter posição %%POSITION%%.",
+    "valid": "/me @%%NAME%% caiu a %%TIME%% atrás e vai voltar pra posição %%POSITION%%.",
 
 
     "warning1": "@%%NAME%%, você esteve inativo por %%TIME%%, responda dentro de 2 minutos ou você será removido da fila de espera.",
     "warning2": "@%%NAME%%, você será removido em breve por inatividade se não responder.",
-    "afkremove": "@%%NAME%%, você foi removido por estar inativo por %%TIME%%. Você teve a posição %%POSITION%%. Use o chat pelo menos uma vez em 1 hora se quiser tocar.",
+    "afkremove": "@%%NAME%%, foi removido pq tava afk por %%TIME%%. ",
 
 
-    "caps": "@%%NAME%%, desligue seu capslock, por favor.",
-    "askskip": "@%%NAME%%, não peça skips.",
-    "spam": "/me @%%NAME%%, não faça spam, por favor.",
-    "roomadvertising": "@%%NAME%%, não poste link de outras comunidades, por favor.",
+    "caps": "@%%NAME%%, DESLIGA O CAPS FILHO DE UMA JUMENTA.",
+    "askskip": "@%%NAME%%, VOU SKIPAR SUA MAE, PARA DE ENCHER O SACO",
+    "spam": "/me @%%NAME%%, Spam = ban, cuidado champz",
+    "roomadvertising": "@%%NAME%%, Postar outros plugs = permaban eterno de 30 dias pra sempre",
     "adfly": "@%%NAME%%, por favor mude seu script autowoot. Nós sugerimos plugCubed: http://plugcubed.net/",
 
 
@@ -79,21 +79,21 @@
     "deletechat": "/me [@%%NAME%%] O chat de %%USERNAME%% foi limpo.",
     "commandslink": "/me Comandos do %%BOTNAME%%: %%LINK%%",
     "eatcookie": "/me ama cookies.",
-    "nousercookie": "/em Não vejo %%NAME%% na sala. Vou comer esse cookie sozinho.",
-    "selfcookie": "/me @%%NAME%%, você é mesquinho, né? Dando cookies a si mesmo, bah. Compartilhe um pouco com os outros!",
+    "nousercookie": "/em Não vejo %%NAME%% na sala. Vou comer esse brioco sozinho dlç.",
+    "selfcookie": "/me @%%NAME%%, PARA DE SER VIADO E DA O SEU CU PRA OUTRO!",
     "cookie": "/me @%%NAMETO%%, @%%NAMEFROM%% %%COOKIE%%",
     "cycleguardtime": "/me [@%%NAME%%] A proteção de ciclo agora é: %%TIME%% minuto(s).",
     "dclookuprank": "/me [@%%NAME%%] Somente Seguranças ou superiores podem usar !dclookup em outros usuários.",
     "emojilist": "/me Emojis: %%LINK%%",
     "notinwaitlist": "@%%NAME%%, você não está na lista de espera.",
-    "eta": "/me @%%NAME%% você tocará em aproximadamente %%TIME%%.",
+    "eta": "/me @%%NAME%% Todos verão sua bundinha tesuda em %%TIME%%.",
     "facebook": "/me Curta nossa página no Facebook: %%LINK%%",
     "starterhelp": "/me Essa imagem te ajudará a usar e entender o plug.dj: %%LINK%%",
     "roulettejoin": "/me @%%NAME%% entrou na roleta! (Use !leave para sair da mesma.)",
     "jointime": "/me [@%%NAMEFROM%%] @%%USERNAME%% esteve na sala por %%TIME%%.",
     "kickrank": "/me [@%%NAME%%] Você não pode kickar alguém do mesmo rank ou superior!",
     "kick": "[@%%NAME%%], @%%USERNAME%% você está sendo kickado da comunidade por %%TIME%% minutos.",
-    "kill": "/me Desligando...",
+    "kill": "/me NAO ME DESLIGA, FILHO DE UMA JUMENTA AIDETICA, NAAAAAAAAAAAAAAAO, NA...",
     "rouletteleave": "/me @%%NAME%% deixou a roleta!",
     "songlink": "/me [@%%NAME%%] Link para a música atual: %%LINK%%",
     "usedlockskip": "/me [%%NAME%% usou 'lockskip'.]",
