@@ -165,7 +165,7 @@
     var botCreatorIDs = [];
 
     var basicBot = {
-        version: "2.1.2",
+        version: "6.6.6",
         status: false,
         name: "basicBot",
         loggedInID: null,
@@ -176,20 +176,20 @@
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         settings: {
-            botName: "basicBot",
+            botName: "BotBabaca",
             language: "english",
             chatLink: "https://rawgit.com/italocjs/basicBot/master/lang/en.json",
             maximumAfk: 120,
             afkRemoval: true,
-            maximumDc: 60,
+            maximumDc: 5,
             bouncerPlus: true,
             lockdownEnabled: false,
-            lockGuard: false,
+            lockGuard: true,
             maximumLocktime: 10,
             cycleGuard: true,
             maximumCycletime: 10,
             timeGuard: true,
-            maximumSongLength: 10,
+            maximumSongLength: 6,
             autodisable: true,
             commandCooldown: 30,
             usercommandsEnabled: true,
@@ -203,7 +203,7 @@
                 ["nsfw", "TA ACHANDO QUE AQUI É XVIDEOS FILHO DE UM COPO AIDETICO, VOU TE PULEI"],
                 ["unavailable", "The song you played was not available for some users. "]
             ],
-            afkpositionCheck: 15,
+            afkpositionCheck: 5,
             afkRankCheck: "ambassador",
             motdEnabled: true,
             motdInterval: 5,
