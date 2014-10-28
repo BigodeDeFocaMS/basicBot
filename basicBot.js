@@ -1,30 +1,3 @@
- Skip to content
-This repository
-
-    Explore
-    Gist
-    Blog
-    Help
-
-    italocjs italocjs
-
-You don't have any verified emails. We recommend verifying at least one email.
-
-Email verification helps our support team verify ownership if you lose account access and allows you to receive all the notifications you ask for.
-
-    1
-    0
-    46
-
-italocjs/basicBot forked from Yemasthui/basicBot
-
-basicBot / basicBot.js
-italocjs italocjs 3 days ago
-Update basicBot.js
-
-3 contributors
-Yemasthui italocjs Hunchmun
-2824 lines (2698 sloc) 138.498 kb
 /**
 *Copyright 2014 italocjs
 *Modifications (including forks) of the code to fit personal needs are allowed only for personal use and should refer back to the original source.
