@@ -1573,6 +1573,91 @@ return API.sendChat(subChat(basicBot.chat.cookie, {nameto: user.username, namefr
 }
 }
 },
+baterCommand: {
+command: 'bater',
+rank: 'user',
+type: 'startsWith',
+cookies: ['Te bateu com uma barra de ferro',
+'Te bateu com um pinto de borracha azul',
+'Te bateu com um chevette',
+'Enfiou o dedo no seu cu.',
+'Jogou areia no seu cu',
+'Atirou no seu pé',
+'Te matou com um HeadShot',
+'é gay',
+],
+getCookie: function () {
+var c = Math.floor(Math.random() * this.cookies.length);
+return this.cookies[c];
+},
+functionality: function (chat, cmd) {
+if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
+if (!basicBot.commands.executable(this.rank, chat)) return void (0);
+else {
+var msg = chat.message;
+var space = msg.indexOf(' ');
+if (space === -1) {
+API.sendChat(basicBot.chat.eatcookie);
+return false;
+}
+else {
+var name = msg.substring(space + 2);
+var user = basicBot.userUtilities.lookupUserName(name);
+if (user === false || !user.inRoom) {
+return API.sendChat(subChat(basicBot.chat.nousercookie, {name: name}));
+}
+else if (user.username === chat.un) {
+return API.sendChat(subChat(basicBot.chat.selfcookie, {name: name}));
+}
+else {
+return API.sendChat(subChat(basicBot.chat.cookie, {nameto: user.username, namefrom: chat.un, cookie: this.getCookie()}));
+}
+}
+}
+}
+},
+chantagearCommand: {
+command: 'chantagear',
+rank: 'user',
+type: 'startsWith',
+cookies: ['Te bateu com uma barra de ferro',
+'Falou que vai contar pra sua mãe',
+'Sabe o que voce fez no verão passado',
+'Vai contar pra sua vó',
+'Quer 1Milhão pra não contar que voce é gay',
+'Disse que se não pagar ele vai comer seu anus',
+'Disse que vai contar pro seu pai que voce transa com o aparelho excretor',
+],
+getCookie: function () {
+var c = Math.floor(Math.random() * this.cookies.length);
+return this.cookies[c];
+},
+functionality: function (chat, cmd) {
+if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
+if (!basicBot.commands.executable(this.rank, chat)) return void (0);
+else {
+var msg = chat.message;
+var space = msg.indexOf(' ');
+if (space === -1) {
+API.sendChat(basicBot.chat.eatcookie);
+return false;
+}
+else {
+var name = msg.substring(space + 2);
+var user = basicBot.userUtilities.lookupUserName(name);
+if (user === false || !user.inRoom) {
+return API.sendChat(subChat(basicBot.chat.nousercookie, {name: name}));
+}
+else if (user.username === chat.un) {
+return API.sendChat(subChat(basicBot.chat.selfcookie, {name: name}));
+}
+else {
+return API.sendChat(subChat(basicBot.chat.cookie, {nameto: user.username, namefrom: chat.un, cookie: this.getCookie()}));
+}
+}
+}
+}
+},
 cycleCommand: {
 command: 'cycle',
 rank: 'manager',
