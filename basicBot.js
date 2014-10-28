@@ -2739,17 +2739,3 @@ API.sendChat(subChat(basicBot.chat.youtube, {name: chat.un, link: basicBot.setti
 };
 loadChat(basicBot.startup);
 }).call(this);
-
-    Status
-    API
-    Training
-    Shop
-    Blog
-    About
-
-    © 2014 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Contact
-
