@@ -1,4 +1,4 @@
-Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
+                     Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
 
 REGRAS DA COMUNIDADE!! 
 
@@ -10,8 +10,8 @@ REGRAS DA COMUNIDADE!!
 
 >MUTE: RECLAMAR DO BOT, FLOOD, PEDIR PRA PULAR
 
-Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
-Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
+                     Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
+
 
 Comandos do BotBabaca:
 =========
@@ -35,9 +35,9 @@ Atualizado dia 28/10/14
 
 |Novos comandos! | Argumentos |  Descricao |
 |:------:|:---------:|:--------------------------------------:|
-|! punir | | (user)| Pune o usuário |
-|! bater | |(user) |bate no usuário |
-|! chantagear | |(user)| chantagea o usuário |
+|! punir | (user)| Pune o usuário |
+|! bater |(user) |bate no usuário |
+|! chantagear |(user)| chantagea o usuário |
 
 
 Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
