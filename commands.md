@@ -1,7 +1,7 @@
                      Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
 
-REGRAS DA COMUNIDADE!! 
-
+REGRAS DA COMUNIDADE!! :
+=========
 >Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK OSTENTACAO 
  
 >BAN DE 1 DIA: NSFW/PORN, PEDIR STAFF, OFENDER ALGUEM, SPAM, USAR CAPS SEM MODERACAO 
