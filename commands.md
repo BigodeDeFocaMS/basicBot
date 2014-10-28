@@ -35,14 +35,14 @@ Atualizado dia 28/10/14
 |! eta | | mostra quanto tempo antes de chegar à cabine |
 |! fb | | links para página do Facebook da sala|
 |! join | | Participar da roleta|
-|! leave | | deixar a roleta, se você se juntou |
+|! leave | | deixar a roleta |
 |! ping | | pong! |
 |! rules | | links para as regras |
 
 |Novos comandos! | Argumentos |  Descricao |
-|! punir | (user) | Pune o usuário |
-|! bater | (user) | bate no usuário |
-|! chantagear | (user) | chantagea o usuário |
+|! punir | | (user)| | Pune o usuário |
+|! bater | |(user) | |bate no usuário |
+|! chantagear | |(user)| | chantagea o usuário |
 
 
 Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
