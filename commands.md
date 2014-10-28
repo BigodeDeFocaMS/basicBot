@@ -40,6 +40,7 @@ Atualizado dia 28/10/14
 |! rules | | links para as regras |
 
 |Novos comandos! | Argumentos |  Descricao |
+|:------:|:---------:|:--------------------------------------:|
 |! punir | | (user)| | Pune o usuário |
 |! bater | |(user) | |bate no usuário |
 |! chantagear | |(user)| | chantagea o usuário |
