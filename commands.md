@@ -12,6 +12,7 @@ REGRAS DA COMUNIDADE!! :
 
                      Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
 
+AUTOWOOT/PM/DELICIA : http://www.brazileletromusic.com.br/2014/10/origem-woot.html
 
 Comandos do BotBabaca:
 =========
@@ -20,7 +21,6 @@ Atualizado dia 28/10/14
 
 |Comandos Padroes | Argumentos |  Descricao |
 |:------:|:---------:|:--------------------------------------:|
-|! autowoot | | links para PlugCubed, o script aconselhados / plugin para usar para autowooting |
 |! ba | | explica o posto embaixador da marca |
 |! commands | | dá um link para os comandos |
 |! cookies | (user) | dar um biscoito para o usuário |
@@ -39,6 +39,7 @@ Atualizado dia 28/10/14
 |! bater |(user) |bate no usuário |
 |! chantagear |(user)| chantagea o usuário |
 
+Novos comandos em breve o/
 
 Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
 BasicBot - Editado por MrJackIsFarting \o/
