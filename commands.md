@@ -1,4 +1,4 @@
-                     Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
+                       Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
 
 REGRAS DA COMUNIDADE!! :
 =========
@@ -41,6 +41,6 @@ Atualizado dia 28/10/14
 
 Novos comandos em breve o/
 
-Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
+                   Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
 
 BasicBot (por: Yemasthui) - Editado por MrJackIsFarting \o/
