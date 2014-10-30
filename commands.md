@@ -42,4 +42,5 @@ Atualizado dia 28/10/14
 Novos comandos em breve o/
 
 Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
-BasicBot - Editado por MrJackIsFarting \o/
+
+BasicBot (por: Yemasthui) - Editado por MrJackIsFarting \o/
