@@ -4,15 +4,16 @@ REGRAS DA COMUNIDADE!! :
 =========
 >Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK OSTENTACAO 
  
+ SERAO APLICADOS:
 >BAN DE 1 DIA: NSFW/PORN, PEDIR STAFF, OFENDER ALGUEM, SPAM, USAR CAPS SEM MODERACAO 
 
 >PERMA-BAN: Repetir BAN-1-DIA, OFENDER STAFF, DIVULGAR OUTRO PLUG
 
 >MUTE: RECLAMAR DO BOT, FLOOD, PEDIR PRA PULAR
 
-                     Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
+                     ATENÇÃO! Após 20min sem falar no chat será removido da fila de espera!
 
-AUTOWOOT/PM/DELICIA : http://www.brazileletromusic.com.br/2014/10/origem-woot.html
+Autowoot recomendado>> : http://bit.ly/1vo5l0t
 
 Comandos do BotBabaca:
 =========
