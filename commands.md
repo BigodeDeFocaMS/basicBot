@@ -21,19 +21,16 @@ Comandos do BotBabaca:
 Atualizado dia 28/10/14
 ----
 
-|Comandos Padroes | Argumentos |  Descricao |
+|Comandos uteis | Argumentos |  Descricao |
 |:------:|:---------:|:--------------------------------------:|
 |! ba | | explica o posto embaixador da marca |
-|! commands | | dá um link para os comandos |
 |! cookies | (user) | dar um biscoito para o usuário |
 |! dclookup / dc |! | Para voltar caso a internet caia|
 |! emoji | | um link para uma lista com emoticons do plug|
-|! eta | | mostra quanto tempo antes de chegar à cabine |
-|! fb | | links para página do Facebook da sala|
+|! eta | | mostra quanto tempo antes de tocar |
 |! join | | Participar da roleta|
 |! leave | | deixar a roleta |
-|! ping | | pong! |
-|! rules | | links para as regras |
+|! ping | | pong! (para testar o delay) |
 
 |Novos comandos! | Argumentos |  Descricao |
 |:------:|:---------:|:--------------------------------------:|
