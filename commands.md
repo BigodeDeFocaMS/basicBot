@@ -12,7 +12,7 @@ REGRAS DA COMUNIDADE!! :
   
   MUTE: RECLAMAR DO BOT, FLOOD, PEDIR PRA PULAR
 
-                     ATENÇÃO! Após 20min sem falar no chat será removido da fila de espera!
+                     ATENÇÃO! Após 20min sem falar no chat você será removido da fila de espera!
 
 Autowoot recomendado>> : http://bit.ly/1vo5l0t
 
