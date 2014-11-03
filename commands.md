@@ -2,7 +2,7 @@
 
 REGRAS DA COMUNIDADE!! :
 =========
- - Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK OSTENTACAO 
+ - Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK E SUAS DERIVACOES
  
  - SERAO APLICADOS:
 
