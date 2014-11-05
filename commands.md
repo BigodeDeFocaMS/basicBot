@@ -2,7 +2,7 @@
 
 REGRAS DA COMUNIDADE!! :
 =========
- - Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK E SUAS DERIVACOES
+ - Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK E SUAS DERIVACOES.  Em nenhum horario, por nenhum motivo serao tolerado!  (OBS: excessoes poderao ser aplicadas pelo Anfitriao ou Co-Anfitriao)
  
  - SERAO APLICADOS:
 
@@ -10,7 +10,7 @@ REGRAS DA COMUNIDADE!! :
 
   PERMA-BAN: Repetir BAN-1-DIA, OFENDER STAFF, DIVULGAR OUTRO PLUG
   
-  MUTE: RECLAMAR DO BOT, FLOOD, PEDIR PRA PULAR
+  MUTE: RECLAMAR DO BOT, FLOOD, PEDIR PRA PULAR, RECLAMAR DA REGRA.
 
                      ATENÇÃO! Após 20min sem falar no chat você será removido da fila de espera!
 
@@ -42,4 +42,4 @@ Novos comandos em breve o/
 
                    Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
 
-BasicBot (por: Yemasthui) - Editado por MrJackIsFarting \o/
+BasicBot (por: Yemasthui) - Editado por MrJackIsFarting \o/ (TÕ PISTOLA)
