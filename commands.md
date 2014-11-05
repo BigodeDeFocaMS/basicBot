@@ -1,18 +1,20 @@
                                         Panelinha ヽ༼ຈلຈ༽ﾉ  Radioativa
 
-REGRAS DA COMUNIDADE!! :
+REGRAS DA COMUNIDADE, LEIA ATENTAMENTE!! :
 =========
- - Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK E SUAS DERIVACOES.  Em nenhum horario, por nenhum motivo serao tolerado!  (OBS: excessoes poderao ser aplicadas pelo Anfitriao ou Co-Anfitriao)
+ - Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK E SUAS DERIVACOES.  Em nenhum horario, por nenhum motivo serao tolerado!  (OBS: excessoes poderao ser aplicadas pelo Anfitriao/Co-Anfitriao ou coordenador)
  
  - SERAO APLICADOS:
 
-  BAN DE 1 DIA: NSFW/PORN (isso ja é considerado nsfw! > http://i.imgur.com/p5BQuVW.png ), PEDIR STAFF, OFENDER ALGUEM, SPAM, USAR CAPS SEM MODERACAO 
+  BAN DE 1 DIA: NSFW/PORN (isso ja é considerado nsfw! > http://i.imgur.com/p5BQuVW.png ), PEDIR STAFF, OFENDER ALGUEM, SPAM. 
 
   PERMA-BAN: Repetir BAN-1-DIA, OFENDER STAFF, DIVULGAR OUTRO PLUG
   
-  MUTE: RECLAMAR DO BOT, FLOOD, PEDIR PRA PULAR, RECLAMAR DA REGRA.
+  MUTE: RECLAMAR DO BOT, FLOOD, PEDIR PRA PULAR, RECLAMAR DAS REGRAS.
 
-                     ATENÇÃO! Após 20min sem falar no chat você será removido da fila de espera!
+>>> ATENCAO!! não concorda com alguma das regras?? http://prntscr.com/53av7z <<<
+
+                      ATENÇÃO! Após 20min sem falar no chat você será removido da fila de espera!
 
 Autowoot recomendado>> : http://bit.ly/1vo5l0t
 
