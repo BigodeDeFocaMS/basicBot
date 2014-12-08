@@ -2,15 +2,12 @@
 
 REGRAS DA COMUNIDADE, LEIA ATENTAMENTE!! :
 =========
- - Generos expressamente proibidos: FORRÓ, SERTANEJO. SAMBA, PAGODE, FUNK E SUAS DERIVACOES.  Em nenhum horario, por nenhum motivo serao tolerado!  (OBS: excessoes poderao ser aplicadas pelo Anfitriao/Co-Anfitriao ou coordenador)
- 
  - Musicas com um numero superior de "Meh/Chato" em relação ao "Woot/Legal" serão puladas!
- - 
  - SERAO APLICADOS:
 
-  BAN DE 1 DIA: NSFW/PORN (isso ja é considerado nsfw! > http://i.imgur.com/p5BQuVW.png ), PEDIR STAFF, OFENDER ALGUEM, SPAM. 
-
-  PERMA-BAN: Repetir BAN-1-DIA, OFENDER STAFF, DIVULGAR OUTRO PLUG
+  BAN DE 1 DIA: NSFW/PORN (isso ja é considerado nsfw! > http://i.imgur.com/p5BQuVW.png ), PEDIR STAFF, XINGAR A PESSOA E ELA RECLAMAR PRO ADM, SPAM.
+  
+  PERMA-BAN: Repetir BAN-1-DIA, OFENDER STAFF, DIVULGAR OUTRO PLUG SEM AUTORIZACAO
   
   MUTE: RECLAMAR DO BOT, FLOOD, PEDIR PRA PULAR, RECLAMAR DAS REGRAS.
 
